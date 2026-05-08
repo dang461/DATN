@@ -1,0 +1,29 @@
+version: 2.1
+
+jobs:
+  katalon-test:
+    docker:
+      - image: katalonstudio/katalon
+    steps:
+      - checkout
+      - run:
+          name: Run Katalon Tests
+          command: >
+            katalonc.sh -noSplash
+            -runMode=console
+            -projectPath=${CIRCLE_WORKING_DIRECTORY}
+            -retry=0
+            -testSuitePath='Test Suites/TimKiem'
+            -browserType='Chrome (headless)'
+            -executionProfile='default'
+            -reportFolder=${CIRCLE_WORKING_DIRECTORY}/Reports
+            -reportFileName='TestReport'
+            -apiKey=${KATALON_KEY}
+      - store_artifacts:
+          path: /root/project/Reports
+          destination: katalon-reports
+workflows:
+  version: 2
+  test:
+    jobs:
+      - katalon-test
