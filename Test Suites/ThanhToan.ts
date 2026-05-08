@@ -21,7 +21,7 @@
          <id>060ca256-fd10-4660-9e36-08e6d960afe6</id>
          <iterationEntity>
             <iterationType>RANGE</iterationType>
-            <value>1-2</value>
+            <value>1-26</value>
          </iterationEntity>
          <testDataId>Data Files/ThanhToan</testDataId>
       </testDataLink>
