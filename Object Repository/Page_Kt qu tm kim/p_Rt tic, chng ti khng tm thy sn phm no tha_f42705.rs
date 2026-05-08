@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Rt tic, chng ti khng tm thy sn phm no tha_f42705</name>
+   <tag></tag>
+   <elementGuidId>53970ae8-e1b1-4e91-9160-ad7d5c7ef305</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bb-body']/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.product-list-content > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>777a8db4-06ee-4d51-82d1-96ad334427f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rất tiếc, chúng tôi không tìm thấy sản phẩm nào thỏa điều kiện tìm kiếm của bạn.</value>
+      <webElementGuid>c7af51a3-d005-4a6c-80c4-54b7aff0dd51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bb-body&quot;)/div[@class=&quot;search-result&quot;]/div[@class=&quot;product-list&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;product-list-content&quot;]/p[1]</value>
+      <webElementGuid>fd8f1fe3-5d07-4a6a-b258-dd7adb5f7133</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bb-body']/div/div/div/div/p</value>
+      <webElementGuid>838e24d3-c656-440c-b119-85cfa9179a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sale Sốc Xả Kho'])[2]/following::p[1]</value>
+      <webElementGuid>75105a4b-b099-467e-bc6e-264c4b716c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NHÀ SÁCH TRỰC TUYẾN BOOKBUY.VN'])[1]/preceding::p[1]</value>
+      <webElementGuid>57a47e6d-fda3-42ca-b0d6-91da60829da6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhà sách online'])[1]/preceding::p[1]</value>
+      <webElementGuid>6c44dd0c-6de0-47da-b7a3-a51342a92fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rất tiếc, chúng tôi không tìm thấy sản phẩm nào thỏa điều kiện tìm kiếm của bạn.']/parent::*</value>
+      <webElementGuid>a66b6d02-b300-4b99-aa7c-1ee81cde1d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>90752e78-e879-4ed0-b828-5d2bf81d891a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rất tiếc, chúng tôi không tìm thấy sản phẩm nào thỏa điều kiện tìm kiếm của bạn.' or . = 'Rất tiếc, chúng tôi không tìm thấy sản phẩm nào thỏa điều kiện tìm kiếm của bạn.')]</value>
+      <webElementGuid>3547d8cb-bfec-4ca2-ad35-d33ac715e614</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

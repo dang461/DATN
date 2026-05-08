@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AnhChChAnhLGBT</name>
+   <tag></tag>
+   <elementGuidId>addfdb8d-053a-4e00-be7a-13113702f157</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='Sex']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Sex</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a2de5e80-a8c0-4e03-8ac6-757908db5851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>8259e42c-60f6-4e5d-b706-7aab8eaf6e53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>0b39ab16-b237-4dcf-b7dc-55115df75649</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d194b2f1-878a-4e49-96cf-4b1edd032a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-number</name>
+      <type>Main</type>
+      <value>The field Sex must be a number.</value>
+      <webElementGuid>b477451e-87cd-49f3-a5c3-cb1bdd154dfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>Chưa chọn giới tính</value>
+      <webElementGuid>90984022-6dd3-4318-8cef-b0ef2d146177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Sex</value>
+      <webElementGuid>0ab58080-3b72-4045-9907-0ac0c4cffecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>Sex</value>
+      <webElementGuid>a9147762-4e65-45e8-9e6f-9fcfb98bb489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anh/Chị
+Chị
+Anh
+LGBT
+</value>
+      <webElementGuid>4aee444e-1d37-40ba-aa55-5f62380cf40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Sex&quot;)</value>
+      <webElementGuid>8c2ec836-f4ce-4212-a82d-766732afb865</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='Sex']</value>
+      <webElementGuid>b95d4ba5-8268-4462-895e-d9a1e9c92d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bb-body']/div/div/div/form/div[3]/div/select</value>
+      <webElementGuid>ffd486a6-335a-4002-b074-37e800f361a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hoặc đăng ký dùng email'])[1]/following::select[1]</value>
+      <webElementGuid>2a999c56-f958-4596-9fca-db2866e834da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập tại đây'])[1]/preceding::select[1]</value>
+      <webElementGuid>c07f6e48-2563-447b-908c-76e0ae951f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a05d2134-b6fc-49f9-8a6c-93c36cc61079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'Sex' and @name = 'Sex' and (text() = 'Anh/Chị
+Chị
+Anh
+LGBT
+' or . = 'Anh/Chị
+Chị
+Anh
+LGBT
+')]</value>
+      <webElementGuid>5810968e-b66c-45df-9bee-16b312783ab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

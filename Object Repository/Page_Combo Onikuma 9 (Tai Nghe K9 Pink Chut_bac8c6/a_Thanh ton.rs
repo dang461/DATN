@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thanh ton</name>
+   <tag></tag>
+   <elementGuidId>755e126a-79d3-4d20-9340-b42126ee79e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-bb.btn-do-checkout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add-cart-success-dialog']/div/div/div/div/div[2]/div/div[3]/div/span[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1683c67e-a69e-4805-9baa-c973653e39ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/thanh-toan.html</value>
+      <webElementGuid>03fe0db8-9c09-49b8-b5e8-0fb9373f7df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-bb btn-do-checkout</value>
+      <webElementGuid>3b03f265-1fd9-4339-b765-a7b12cad6939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán</value>
+      <webElementGuid>3454cc6f-9e62-43a0-9362-272c22d40b67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-cart-success-dialog&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;cart-popup__row&quot;]/div[@class=&quot;cart-popup__cell cart-popup__cell_summary&quot;]/div[@class=&quot;cart-summary&quot;]/div[@class=&quot;summary-control table mt15 mbs&quot;]/div[@class=&quot;row&quot;]/span[@class=&quot;col&quot;]/a[@class=&quot;btn btn-bb btn-do-checkout&quot;]</value>
+      <webElementGuid>78678460-6e15-4de2-8755-9231b1a40b5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='add-cart-success-dialog']/div/div/div/div/div[2]/div/div[3]/div/span[2]/a</value>
+      <webElementGuid>4fa44c1b-6ff6-45e9-b270-fc239e83baf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thanh toán')]</value>
+      <webElementGuid>75cd8570-29ac-4763-ac74-abe22b1e0bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/following::a[1]</value>
+      <webElementGuid>7a0ecb7b-07f5-43ab-a0f7-7141d4951bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thành tiền'])[1]/following::a[2]</value>
+      <webElementGuid>c5e320f5-82bc-483e-903e-322762deaf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng kí thành công'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc4f1b25-a4a8-466d-b846-c461f38fbb34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::a[1]</value>
+      <webElementGuid>4080a46e-1a4b-42ac-ba06-c46e9e9c2fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thanh toán']/parent::*</value>
+      <webElementGuid>c0089943-4168-464b-9b07-97962686015b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/thanh-toan.html')]</value>
+      <webElementGuid>5d769371-e170-4243-b3be-c381d6d7d9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span[2]/a</value>
+      <webElementGuid>9f8386ee-cb32-40c0-b305-d78b58525952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/thanh-toan.html' and (text() = 'Thanh toán' or . = 'Thanh toán')]</value>
+      <webElementGuid>9eef4f31-f4a0-4d2e-9a26-b471e2486d4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lm p - Sc Khe_search1 icon-ic_search_24px</name>
+   <tag></tag>
+   <elementGuidId>90d6d2fd-3c59-4f51-a2f7-826900f7cdbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.search.button-search > span.search1.icon-ic_search_24px</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bb-header']/div[2]/div/div/div[2]/div/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88f4850c-c6f2-41de-a64f-e6ca47bb4937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>search1 icon-ic_search_24px</value>
+      <webElementGuid>3ccf36a9-1e41-4bf3-8fff-b51f78e2e7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bb-header&quot;)/div[@class=&quot;logo&quot;]/div[@class=&quot;container&quot;]/div[1]/div[@class=&quot;logo-right col-md-offset-3&quot;]/div[@class=&quot;search-shopping-box&quot;]/div[@class=&quot;search-new-box col-md-6&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;input-group-btn&quot;]/button[@class=&quot;search button-search&quot;]/span[@class=&quot;search1 icon-ic_search_24px&quot;]</value>
+      <webElementGuid>3dceefd9-81ba-4c2d-a75c-1393e56b9ab9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bb-header']/div[2]/div/div/div[2]/div/div/div/div[2]/button/span</value>
+      <webElementGuid>4243069d-f63b-4703-8940-de880859216a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>4547a2e7-ed26-48ab-acf4-14da2656b508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

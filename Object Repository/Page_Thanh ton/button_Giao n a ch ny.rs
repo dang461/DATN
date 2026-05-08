@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Giao n a ch ny</name>
+   <tag></tag>
+   <elementGuidId>87103159-0de5-4425-a51c-990014ba5fa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-bb.btn-pad1020</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bb-body']/div/div/div/form/div[2]/div[2]/p/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e3629467-9724-4304-9f60-4fe769cad62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>gotoPayment()</value>
+      <webElementGuid>d61e2783-4f5e-45c0-b9a8-461e87f34209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-bb btn-pad1020</value>
+      <webElementGuid>0eb98098-b651-49f6-9ec9-6cf885518bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giao đến địa chỉ này</value>
+      <webElementGuid>98d6daa4-9438-43ba-8195-913adb3bc725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bb-body&quot;)/div[@class=&quot;checkout ng-scope&quot;]/div[@class=&quot;step-container container step-infomation&quot;]/div[@class=&quot;step-one&quot;]/form[@class=&quot;ng-invalid ng-invalid-required ng-dirty ng-valid-parse ng-valid-pattern&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;box-block box-edit-delivery&quot;]/p[@class=&quot;deliver-action&quot;]/button[@class=&quot;btn btn-bb btn-pad1020&quot;]</value>
+      <webElementGuid>3e7cc540-2606-48a0-bdee-01b118d90214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bb-body']/div/div/div/form/div[2]/div[2]/p/button</value>
+      <webElementGuid>07b0a613-e4ad-44b9-9c63-5528cb526ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nơi làm việc'])[1]/following::button[1]</value>
+      <webElementGuid>1872e29b-cee3-4258-a383-aa33b87840c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhà riêng'])[1]/following::button[1]</value>
+      <webElementGuid>ad2988ad-9ba0-4222-bf53-675cc4836bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phương thức vận chuyển'])[1]/preceding::button[1]</value>
+      <webElementGuid>1ff6bdc0-827a-47c6-8651-8b91eded3eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[1]/preceding::button[1]</value>
+      <webElementGuid>231cd3d5-65d2-45f8-a8e7-8bdf19bb7650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Giao đến địa chỉ này']/parent::*</value>
+      <webElementGuid>d1c43f1c-1009-4ae9-b59b-4f2b723b9f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>143ea83b-b437-47ae-94bd-b682c817b123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Giao đến địa chỉ này' or . = 'Giao đến địa chỉ này')]</value>
+      <webElementGuid>711e37c7-7873-4dfc-b699-47e3ac3e9f27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

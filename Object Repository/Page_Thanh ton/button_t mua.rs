@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_t mua</name>
+   <tag></tag>
+   <elementGuidId>c432a542-325b-4e48-b66c-fa0e78c258fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#docheckout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='docheckout']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f759219d-d696-479a-a538-7745ab5b0457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>doCheckout()</value>
+      <webElementGuid>ec52bcde-9247-4c64-80d4-86f40fa6a8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-bb btn-pad1020 do-checkout-desktop</value>
+      <webElementGuid>92efa88f-fda1-4947-b728-efdfacca56cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>docheckout</value>
+      <webElementGuid>da0e024f-ff6b-455d-b56b-9d6da5efdbe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-show</name>
+      <type>Main</type>
+      <value>steppayment &amp;&amp; paymode!='tragop'</value>
+      <webElementGuid>d60f3a6f-338e-4288-8a27-936e3b0b2c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8dc5cc7d-67bd-410b-8238-4cdd8136bd58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đặt mua  </value>
+      <webElementGuid>9bc79bfe-6d97-41ef-9d7a-f307b74bcb5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bb-body&quot;)/div[@class=&quot;checkout ng-scope&quot;]/div[@class=&quot;step-container container step-payment&quot;]/div[@class=&quot;step-two&quot;]/form[@class=&quot;ng-invalid ng-invalid-required ng-dirty ng-valid-parse&quot;]/div[@class=&quot;step-item&quot;]/div[@class=&quot;left-content&quot;]/button[@id=&quot;docheckout&quot;]</value>
+      <webElementGuid>d2114a4b-ef5b-437a-ae97-724b7fd1d5bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='docheckout']</value>
+      <webElementGuid>e5cefec3-922f-46f7-8912-bf2390db3efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bb-body']/div/div[2]/div/form/div/div/button</value>
+      <webElementGuid>ecdd1e70-0b02-4eae-bfe2-55587f195ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn loại thẻ'])[1]/following::button[1]</value>
+      <webElementGuid>db0da60e-0bf5-4676-8086-6e4c7f3080e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chọn Ngân hàng trả góp'])[1]/following::button[1]</value>
+      <webElementGuid>cb286a38-30f6-4d20-8cd5-c68cc6e14651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sửa'])[1]/preceding::button[1]</value>
+      <webElementGuid>6509e731-90a4-4d4b-ba09-d1e39cbe73be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postcard Art Tô Màu CMA Studio Giấy Mỹ Thuật 300Gsm Cao Cấp 10x15cm - Cuộc Sống Tươi Đẹp - Mẫu 1'])[1]/preceding::button[2]</value>
+      <webElementGuid>b3cad821-c35e-499c-bfbb-481d2118bdf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đặt mua']/parent::*</value>
+      <webElementGuid>915c431e-1222-4552-8c58-4ad8d36daa94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button</value>
+      <webElementGuid>0e394bf6-b176-4e8b-aaa7-45d090028d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'docheckout' and (text() = 'Đặt mua  ' or . = 'Đặt mua  ')]</value>
+      <webElementGuid>ba90e37b-22e5-4b41-a9a1-45a4d4de4c37</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

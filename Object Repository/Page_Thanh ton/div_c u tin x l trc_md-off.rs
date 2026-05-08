@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_c u tin x l trc_md-off</name>
+   <tag></tag>
+   <elementGuidId>c5f08410-ff40-465f-a7fe-3c07672099bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#radio_9 > div.md-container.md-ink-ripple > div.md-off</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//md-radio-button[@id='radio_9']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c3457df-643b-4efe-abcc-6e47003f8590</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>md-off</value>
+      <webElementGuid>45d9196f-ae67-4274-bece-768ab327a9b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;radio_9&quot;)/div[@class=&quot;md-container md-ink-ripple&quot;]/div[@class=&quot;md-off&quot;]</value>
+      <webElementGuid>658719a5-742c-48c6-b201-1fea4db1b260</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//md-radio-button[@id='radio_9']/div/div</value>
+      <webElementGuid>83ea74b4-7948-4ad5-a91a-7d46177fa861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/md-radio-group/md-radio-button/div/div</value>
+      <webElementGuid>f489b3fb-86a6-417d-b8af-d9d8ae93262a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
